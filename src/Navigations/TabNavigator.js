@@ -8,9 +8,9 @@ import {
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Ionicons from 'react-native-vector-icons/Ionicons';
-import HomePage from './HomePage'
-import styles from './Style'
-import LogoTitle from './LogoTitle'
+import HomePage from '../Pages/HomePage'
+import styles from '../Styles/Style'
+import LogoTitle from '../Components/LogoTitle'
 
 function DetailsScreen() {
   return (

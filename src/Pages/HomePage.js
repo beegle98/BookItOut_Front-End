@@ -7,7 +7,7 @@ import {
   Image,
   FlatList,
 } from 'react-native';
-import styles from './Style'
+import styles from '../Styles/Style'
 
 export default function HomePage ({ navigation }) {
     
