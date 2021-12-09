@@ -9,7 +9,7 @@ import {
 } from 'react-native';
 import styles from '../Styles/Style'
 
-export default function HomePage ({ navigation }) {
+export default function HomeScreen ({ navigation }) {
     
     return (
     <View style={styles.view}>
@@ -69,7 +69,7 @@ const SECTIONS = [
     {
         key: '1',
         text: 'Item text 1',
-        uri: 'https://picsum.photos/id/1/200',
+        uri: 'https://image.aladin.co.kr/product/25208/12/cover150/8959896837_3.jpg',
     },
     {
         key: '2',

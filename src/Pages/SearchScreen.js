@@ -8,7 +8,7 @@ import {
 } from 'react-native';
 import { SearchBar } from 'react-native-elements';
 
-const SearchPage = () => {
+const SearchScreen = () => {
   const [search, setSearch] = useState('');
   const [filteredDataSource, setFilteredDataSource] = useState([]);
   const [masterDataSource, setMasterDataSource] = useState([]);
@@ -112,4 +112,4 @@ const styles = StyleSheet.create({
   },
 });
 
-export default SearchPage; 
+export default SearchScreen; 
