@@ -4,5 +4,8 @@
 Front-End (React-Native)
 
 
+자세한 커밋 내용은 아래 url 참고
+https://github.com/jong02112004/SampleApp2/tree/master
+
 ## Back-End GitHub
 https://github.com/crakel/BookItOut
